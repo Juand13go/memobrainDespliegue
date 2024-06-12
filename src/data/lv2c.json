@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "HTML",
+    "descript": "HyperText Markup Language refers to the markup language used in the creation of web pages. This standard serves as a reference for the software that interacts with the creation of web pages in its different versions.",
+    "order": "3",
+    "status": "close",
+    "img": "../img/html.png"
+  },
+
+  {
+    "id": "2",
+    "title": "HTML",
+    "descript": "HyperText Markup Language refers to the markup language used in the creation of web pages. This standard serves as a reference for the software that interacts with the creation of web pages in its different versions.",
+    "order": "4",
+    "status": "close",
+    "img": "../img/html.png"
+  },
+
+  {
+    "id": "3",
+    "title": "CSS",
+    "descript": "CSS, in english 'Cascading Style Sheets', is a graphic design language for defining and creating the presentation of a structured document written in a markup language.",
+    "order": "2",
+    "status": "close",
+    "img": "../img/css.png"
+  },
+
+  {
+    "id": "4",
+    "title": "CSS",
+    "descript": "CSS, in english 'Cascading Style Sheets', is a graphic design language for defining and creating the presentation of a structured document written in a markup language.",
+    "order": "5",
+    "status": "close",
+    "img": "../img/css.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "JavaScript",
+    "descript": "JavaScript is an interpreted programming language, a dialect of the ECMAScript standard. It is defined as object-oriented, prototype-based, imperative, weakly typed and dynamic.",
+    "order": "1",
+    "status": "close",
+    "img": "../img/js.jpg"
+  },
+
+  {
+    "id": "6",
+    "title": "JavaScript",
+    "descript": "JavaScript is an interpreted programming language, a dialect of the ECMAScript standard. It is defined as object-oriented, prototype-based, imperative, weakly typed and dynamic.",
+    "order": "6",
+    "status": "close",
+    "img": "../img/js.jpg"
+  }
+]

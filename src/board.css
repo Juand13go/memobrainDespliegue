@@ -1,0 +1,352 @@
+.board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.initName {
+  display: flex;
+  background: linear-gradient(blue, rgb(0, 217, 255));
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.cell {
+  width: 150px;
+  border-radius: 20px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+  background-color: white;
+  border: 2px solid ;
+  transition: all 0.8s ease;
+}
+
+.cell.close {
+  transform: rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+}
+
+.cell.close::before {
+  content: "";
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: -2px;
+  left: -2px;
+  z-index: 0;
+  background: white;
+  border: 2px solid blue;
+  border-radius: 20px;
+}
+
+.cell:active {
+  background-color: white;
+  box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+  border: 2px solid black;
+  transform-style: preserve-3d;
+  transform: rotateY(180deg);
+}
+
+.cell.open {
+  transform: rotateY(0deg);
+  transform-style: preserve-3d;
+}
+
+.cell.open::before {
+  transform: rotateY(0deg);
+  transform-style: preserve-3d;
+  z-index: -4;
+  background: transparent;
+}
+
+.cell.win {
+  visibility: hidden;
+}
+
+.namedescript{
+  color: rgb(0, 162, 255);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 26, 255);
+}
+
+.button{
+  background-color: rgb(0, 0, 0);
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+.descript-ms {
+  background: white;
+  border: 2px solid rgb(0, 217, 255);
+  position: fixed;
+  bottom: 20px;
+  padding: 10px;
+  border-radius: 15px;
+  width: auto;
+  max-width: 350px;
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+  font-family: "Bahnschrift Light", sans serif;
+}
+
+.descript-ms h1 {
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+  
+}
+
+.descript-ms p {
+  margin: 0;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
+
+.descript-ms button {
+  padding: 10px 20px;
+  font-family: "Bahnschrift Light";
+  font-size: 18px;
+  border: solid;
+  border-radius:30px;
+  cursor: pointer;
+  background: black;
+  color: rgb(205, 213, 220);
+  font-weight: bold;
+  
+  
+}
+
+.descript-ms button:hover {
+  color:black;
+  background-color: white;
+
+}
+
+.victory-message{
+  text-align: center;
+  margin: 40px;
+  color: white;
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  width: 100%; 
+  padding: 20px;
+  position: absolute;
+  flex: 1;
+  
+}
+
+.victory-message h2{
+  font-family: "Bahnschrift Bold", sans-serif;
+  font-size: 45px;
+  margin-bottom: 5px;
+  
+
+}
+
+.victory-message h1{
+  font-family: "Bahnschrift Bold", sans-serif;
+  
+  margin-bottom: 5px;
+
+}
+
+.victory-message h4{
+  font-family: 'Qanelas Medium', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  max-width: 90%; 
+  
+
+}
+
+.victory-message h3{
+  font-family: 'Qanelas Medium', sans-serif;
+  font-size: 22px;
+  line-height: 1.5;
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  max-width: 90%; 
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+
+}
+
+.victory-message button{
+  padding: 10px 20px;
+  font-family: "Bahnschrift Light";
+  font-size: 18px;
+  border: solid;
+  border-radius:30px;
+  cursor: pointer;
+  background: black;
+  color: rgb(205, 213, 220);
+  font-weight: bold;
+  
+  
+}
+
+.victory-message button:hover {
+  color:black;
+  background-color: white;
+
+}
+
+.top-section h2{
+  font-family: "Bahnschrift Light", sans serif;
+}
+
+.start-section h2{
+  font-family: "Bahnschrift Light", sans serif;
+}
+
+.start-section button{
+  margin: 0 auto;
+  width: 20%;
+  font-size:35px;
+  font-family: "Bahnschrift Light", sans serif;
+  padding: 10px 20px;
+  border: solid;
+  border-radius:30px;
+  cursor: pointer;
+  background: black;
+  color: rgb(205, 213, 220);
+  font-weight: bold;
+}
+
+.start-section button:hover{
+  color:black;
+  background-color: white;
+
+}
+
+.hidden{
+  display: none;
+}
+
+.board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  position: relative; /* Añadido */
+}
+
+.initName {
+  display: flex;
+  background: linear-gradient(blue, rgb(0, 217, 255));
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.cell {
+  width: 150px;
+  border-radius: 20px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+  background-color: white;
+  border: 2px solid;
+  transition: all 0.8s ease;
+}
+
+.cell.close {
+  transform: rotateY(180deg);
+  transform-style: preserve-3d;
+  transition: all 0.8s ease;
+}
+
+/* Resto de estilos... */
+
+.top-section h2 {
+  font-family: "Bahnschrift Light", sans-serif;
+}
+
+.start-section h2 {
+  font-family: "Bahnschrift Light", sans-serif;
+}
+
+.start-section button {
+  margin: 0 auto;
+  width: 20%;
+  font-size: 35px;
+  font-family: "Bahnschrift Light", sans-serif;
+  padding: 10px 20px;
+  border: solid;
+  border-radius: 30px;
+  cursor: pointer;
+  background: black;
+  color: rgb(205, 213, 220);
+  font-weight: bold;
+}
+
+.start-section button:hover {
+  color: black;
+  background-color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+.start-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Añadido para dar un poco de espacio */
+}
+
+.top-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Añadido para dar un poco de espacio */
+}
+
+.top-section h2 {
+  font-family: "Bahnschrift Light", sans-serif;
+  border: 2px solid black; /* Agregado */
+  border-radius: 10px; /* Agregado para suavizar los bordes */
+  padding: 5px 10px; /* Agregado para dar espacio al texto */
+}
+
+
+
+

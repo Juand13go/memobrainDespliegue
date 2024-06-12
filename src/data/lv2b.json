@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "Fauna",
+    "descript": "Set of animal species that inhabit a geographic region, which are typical of a geological period.",
+    "order": "3",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/9098/9098344.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Fauna",
+    "descript": "Set of animal species that inhabit a geographic region, which are typical of a geological period.",
+    "order": "4",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/9098/9098344.png"
+  },
+
+  {
+    "id": "3",
+    "title": "Flora",
+    "descript": "Refers to the set of plants, native or introduced, from a geographic region, from a specific geological period, or from a specific ecosystem.",
+    "order": "2",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20190826/ourlarge/pngtree-flora-png-image_1697531.jpg"
+  },
+
+  {
+    "id": "4",
+    "title": "Flora",
+    "descript": "Refers to the set of plants, native or introduced, from a geographic region, from a specific geological period, or from a specific ecosystem.",
+    "order": "5",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20190826/ourlarge/pngtree-flora-png-image_1697531.jpg"
+  },
+  
+  {
+    "id": "5",
+    "title": "Abiotic beings",
+    "descript": "They are all those formed by nature. Examples of them would be rocks, water, fire, light.",
+    "order": "1",
+    "status": "close",
+    "img": "https://png.pngtree.com/element_our/20190602/ourmid/pngtree-hand-drawn-grey-stone-illustration-image_1400698.jpg"
+  },
+
+  {
+    "id": "6",
+    "title": "Abiotic beings",
+    "descript": "They are all those formed by nature. Examples of them would be rocks, water, fire, light.",
+    "order": "6",
+    "status": "close",
+    "img": "https://png.pngtree.com/element_our/20190602/ourmid/pngtree-hand-drawn-grey-stone-illustration-image_1400698.jpg"
+  }
+]

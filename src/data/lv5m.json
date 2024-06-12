@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "The numerical sets",
+    "descript": "The numerical sets used in basic mathematics are: Natural (N), integers (Z), rational (Q), irrational (Q), real (R) and complex (C).",
+    "order": "3",
+    "status": "close",
+    "img": "https://ciencia.bambui.ifmg.edu.br/images/F0_conjuntos.png"
+  },
+
+  {
+    "id": "2",
+    "title": "The numerical sets",
+    "descript": "The numerical sets used in basic mathematics are: Natural (N), integers (Z), rational (Q), irrational (Q), real (R) and complex (C).",
+    "order": "4",
+    "status": "close",
+    "img": "https://ciencia.bambui.ifmg.edu.br/images/F0_conjuntos.png"
+  },
+  {
+    "id": "3",
+    "title": "Set of natural numbers",
+    "descript": "Is denoted by N = {1, 2, 3, 4, 5, …}. The first natural number is one and the progression continues arithmetically by adding one to each new value.",
+    "order": "2",
+    "status": "close",
+    "img": "https://i.pinimg.com/474x/f6/82/04/f68204d194c5ff6afdd812672cf7cfd7.jpg"
+  },
+
+  {
+    "id": "4",
+    "title": "Set of natural numbers",
+    "descript": "Is denoted by N = {1, 2, 3, 4, 5, …}. The first natural number is one and the progression continues arithmetically by adding one to each new value.",
+    "order": "5",
+    "status": "close",
+    "img": "https://i.pinimg.com/474x/f6/82/04/f68204d194c5ff6afdd812672cf7cfd7.jpg"
+  },
+  
+  {
+    "id": "5",
+    "title": "Set of integers",
+    "descript": "The set of integers, which we represent as Z, is the set formed by positive and negative numbers.",
+    "order": "1",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/950/198/png-transparent-integer-natural-number-mathematical-notation-mathematics-negative-number-symbols-angle-text-triangle-thumbnail.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Set of integers",
+    "descript": "The set of integers, which we represent as Z, is the set formed by positive and negative numbers.",
+    "order": "6",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/950/198/png-transparent-integer-natural-number-mathematical-notation-mathematics-negative-number-symbols-angle-text-triangle-thumbnail.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Set of rational numbers",
+    "descript": "Any number that can be represented as the quotient of two integers is called a rational number.",
+    "order": "8",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/313/21/png-transparent-fraction-decimal-rational-number-mathematics-hi-word-text-logo-number-thumbnail.png"
+  },
+
+  {
+    "id": "8",
+    "title": "Set of rational numbers",
+    "descript": "Any number that can be represented as the quotient of two integers is called a rational number.",
+    "order": "7",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/313/21/png-transparent-fraction-decimal-rational-number-mathematics-hi-word-text-logo-number-thumbnail.png"
+  },
+
+  {
+    "id": "9",
+    "title": "Set of irrational numbers",
+    "descript": "They are all those decimals with infinite figures that cannot be expressed as a fraction.",
+    "order": "10",
+    "status": "close",
+    "img": "https://e7.pngegg.com/pngimages/412/398/png-clipart-quadratic-equation-square-root-of-3-nth-root-formula-math-question-angle-text.png"
+  },
+
+  {
+    "id": "10",
+    "title": "Set of irrational numbers",
+    "descript": "They are all those decimals with infinite figures that cannot be expressed as a fraction.",
+    "order": "9",
+    "status": "close",
+    "img": "https://e7.pngegg.com/pngimages/412/398/png-clipart-quadratic-equation-square-root-of-3-nth-root-formula-math-question-angle-text.png"
+  },
+
+  {
+    "id": "11",
+    "title": "Set of real numbers",
+    "descript": "It is made up of other numbers such as natural, integer, rational and irrational numbers. Real numbers are infinite and follow an order, and can be decimal and negative.",
+    "order": "12",
+    "status": "close",
+    "img": "https://www3.gobiernodecanarias.org/medusa/ecoblog/meperper/files/2013/01/343px-Latex_real_numbers.svg-1.png"
+  },
+
+  {
+    "id": "12",
+    "title": "Set of real numbers",
+    "descript": "It is made up of other numbers such as natural, integer, rational and irrational numbers. Real numbers are infinite and follow an order, and can be decimal and negative.",
+    "order": "11",
+    "status": "close",
+    "img": "https://www3.gobiernodecanarias.org/medusa/ecoblog/meperper/files/2013/01/343px-Latex_real_numbers.svg-1.png"
+  }
+
+
+]

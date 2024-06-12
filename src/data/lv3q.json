@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "gaseous",
+    "descript": "state of aggregation of matter in which, under certain conditions of temperature and pressure, its molecules interact or react weakly with each other.",
+    "order": "3",
+    "status": "close",
+    "img": "https://humanidades.com/wp-content/uploads/2018/12/estado-gaseoso-e1543980126994.jpg"
+  },
+
+  {
+    "id": "2",
+    "title": "gaseous",
+    "descript": "state of aggregation of matter in which, under certain conditions of temperature and pressure, its molecules interact or react weakly with each other.",
+    "order": "4",
+    "status": "close",
+    "img": "https://humanidades.com/wp-content/uploads/2018/12/estado-gaseoso-e1543980126994.jpg"
+  },
+
+  {
+    "id": "3",
+    "title": "plasma",
+    "descript": "It is a state similar to gas, but composed of ionized atoms, where electrons circulate freely.",
+    "order": "2",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/1200px-Plasma-lamp_2.jpg"
+  },
+
+  {
+    "id": "4",
+    "title": "plasma",
+    "descript": "It is a state similar to gas, but composed of ionized atoms, where electrons circulate freely.",
+    "order": "5",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Plasma-lamp_2.jpg/1200px-Plasma-lamp_2.jpg"
+  },
+  
+  {
+    "id": "5",
+    "title": "periodic table",
+    "descript": "It is an arrangement of the chemical elements in table form, ordered by their atomic number,",
+    "order": "1",
+    "status": "close",
+    "img": "https://concepto.de/wp-content/uploads/2018/02/2-e1601903886649.png"
+  },
+
+  {
+    "id": "6",
+    "title": "periodic table",
+    "descript": "It is an arrangement of the chemical elements in table form, ordered by their atomic number,",
+    "order": "6",
+    "status": "close",
+    "img": "https://concepto.de/wp-content/uploads/2018/02/2-e1601903886649.png"
+  },
+
+  {
+    "id": "7",
+    "title": "atomic number",
+    "descript": "It is designated by the letter Z and is indicated in the lower left corner of the chemical compound symbol. The atomic number tells us the number of electrons that revolve around the nucleus.",
+    "order": "8",
+    "status": "close",
+    "img": "https://i.pinimg.com/originals/0d/e4/da/0de4da8e1035c9a138195aec69d724a5.jpg"
+  },
+
+  {
+    "id": "8",
+    "title": "atomic number",
+    "descript": "It is designated by the letter Z and is indicated in the lower left corner of the chemical compound symbol. The atomic number tells us the number of electrons that revolve around the nucleus.",
+    "order": "7",
+    "status": "close",
+    "img": "https://i.pinimg.com/originals/0d/e4/da/0de4da8e1035c9a138195aec69d724a5.jpg"
+  }
+]

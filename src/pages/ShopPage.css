@@ -1,0 +1,112 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+  }
+
+  .memobrain1{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background-image: url("../img/backgroundimg3.png");
+    background-position: 5px 5px;
+    margin-top: 0;
+   /* Added: Set a lower z-index value to place it behind the text */
+    z-index: 1;
+    padding: 5px;
+  }
+  
+
+  .tittleshop {
+    text-align: center;
+    font-size: 3em;
+    color:rgb(255, 255, 255);
+    margin: 20px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+
+  .shop-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+
+  .shop-item {
+    background-color: #e0f7fa;
+    border: 2px solid #007bb5;
+    border-radius: 10px;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+  .shop-item h1 {
+    font-size: 1.5em;
+    color: #004c8c;
+    margin: 10px 0;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+  .shop-item img {
+    width: 50px;
+    height: 50px;
+    margin: 10px 0;
+    
+  }
+  
+  .buy-btn {
+    background-color: #007bb5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .buy-btn:hover {
+    background-color: #005f8a;
+    transform: scale(1.1);
+  }
+  
+  .coins {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .coins img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .coins h1 {
+    font-size: 1.2em;
+    color: #007bb5;
+    margin: 0;
+  }

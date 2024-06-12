@@ -1,0 +1,80 @@
+*{
+    max-width: 100%;
+    max-height: 400%;
+}
+
+.memobrain{
+  width: 2000px;
+  height: 100%;
+  position: absolute;
+  background-image: url("../img/backgroundimg.png");
+  background-position: 20px 30px;
+  margin-top: 0;
+ /* Added: Set a lower z-index value to place it behind the text */
+  z-index: 1;
+  padding: 5px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .welcome h1 {
+    background-color: #101728;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 600px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+
+  .phrase h1{
+    background-color: #101728;       
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-left: 600px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+   /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+
+  }
+
+  .start_learning_btn {
+    margin-left: 600px;
+    width: 200px;
+    height: 50px;
+    background-image: linear-gradient(rgb(0, 255, 170), rgb(0, 255, 0));
+    padding: 10px;
+    border: solid;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    
+    font-family: "Bahnschrift Light";
+    font-size: 20px;
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+  .start_learning-btn:hover {
+    background: #032b52;
+    width: 160px;
+    height: 80px;
+    
+
+    
+  }
+
+  

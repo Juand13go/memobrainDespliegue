@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "title": "Cuento",
+    "descript": "It means tale. Short story created by one or more authors, it can be based on either real or fictional events, the plot of which is carried out by a small group of characters and with a relatively simple plot.",
+    "order": "3",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-clipart/20210208/ourlarge/pngtree-red-little-red-riding-hood-clip-art-png-image_2899991.jpg"
+  },
+
+  {
+    "id": "2",
+    "title": "Cuento",
+    "descript": "It means tale. Short story created by one or more authors, it can be based on either real or fictional events, the plot of which is carried out by a small group of characters and with a relatively simple plot.",
+    "order": "4",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-clipart/20210208/ourlarge/pngtree-red-little-red-riding-hood-clip-art-png-image_2899991.jpg"
+  },
+
+  {
+    "id": "3",
+    "title": "Novela",
+    "descript": "It means novel. More or less extensive literary narrative, usually of a fictional nature, in which a series of events prolonged over time is told, in order to entertain and provide aesthetic pleasure to its readers.",
+    "order": "2",
+    "status": "close",
+    "img": "https://img.freepik.com/vector-gratis/ilustracion-don-quijote-dibujado-mano_23-2149862801.jpg?size=338&ext=jpg&ga=GA1.1.1788068356.1716681600&semt=ais_user"
+  },
+
+  {
+    "id": "4",
+    "title": "Novela",
+    "descript": "It means novel. More or less extensive literary narrative, usually of a fictional nature, in which a series of events prolonged over time is told, in order to entertain and provide aesthetic pleasure to its readers.",
+    "order": "5",
+    "status": "close",
+    "img": "https://img.freepik.com/vector-gratis/ilustracion-don-quijote-dibujado-mano_23-2149862801.jpg?size=338&ext=jpg&ga=GA1.1.1788068356.1716681600&semt=ais_user"
+  },
+  
+  {
+    "id": "5",
+    "title": "Noticias",
+    "descript": "It means news. Story or writing about a current event of public interest, it is an objective text disseminated through various social media.",
+    "order": "1",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2495/2495007.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Noticias",
+    "descript": "It means news. Story or writing about a current event of public interest, it is an objective text disseminated through various social media.",
+    "order": "6",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2495/2495007.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Poema",
+    "descript": "It means poem. Literary genre that consists of the representation of a feeling, a story or an idea in an aesthetic way and promoting its beauty. This representation is carried out through words, whether in the form of verse or prose.",
+    "order": "8",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2633/2633122.png"
+  },
+
+  {
+    "id": "8",
+    "title": "Poema",
+    "descript": "It means poem. Literary genre that consists of the representation of a feeling, a story or an idea in an aesthetic way and promoting its beauty. This representation is carried out through words, whether in the form of verse or prose.",
+    "order": "7",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2633/2633122.png"
+  },
+
+  {
+    "id": "9",
+    "title": "Leer",
+    "descript": "It means read. An example of the use of this word is: '¡Este año voy a leer 10 libros!' = 'This year I am going to read 10 books!'",
+    "order": "10",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2436/2436890.png"
+  },
+
+  {
+    "id": "10",
+    "title": "Leer",
+    "descript": "It means read. An example of the use of this word is: '¡Este año voy a leer 10 libros!' = 'This year I am going to read 10 books!'",
+    "order": "9",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2436/2436890.png"
+  },
+
+  {
+    "id": "11",
+    "title": "Hablar",
+    "descript": "It means talk. An example of the use of this word is: 'Me encanta hablar con mis amigos' = 'I love talking with my friends'",
+    "order": "12",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3220/3220604.png"
+  },
+
+  {
+    "id": "12",
+    "title": "Hablar",
+    "descript": "It means talk. An example of the use of this word is: 'Me encanta hablar con mis amigos' = 'I love talking with my friends'",
+    "order": "11",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3220/3220604.png"
+  },
+
+  {
+    "id": "13",
+    "title": "Comer",
+    "descript": "It means eat. An example of the use of this word is: 'Me gusta comer mucho pero me duele el estómago' = 'I like to eat a lot but my stomach hurts.'",
+    "order": "14",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/385/595/png-transparent-food-eating-lunch-child-child-child-food-people.png"
+  },
+
+  {
+    "id": "14",
+    "title": "Comer",
+    "descript": "It means eat. An example of the use of this word is: 'Me gusta comer mucho pero me duele el estómago' = 'I like to eat a lot but my stomach hurts.'",
+    "order": "13",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/385/595/png-transparent-food-eating-lunch-child-child-child-food-people.png"
+  },
+
+  {
+    "id": "15",
+    "title": "Dormir",
+    "descript": "It means sleep. An example of the use of this word is: 'Yo no duermo antes de ir a la escuela' = 'I don't sleep before going to school'",
+    "order": "15",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/135/174/png-transparent-bedtime-open-microsoft-office-bedtime-mammal-child-sleep.png"
+  },
+
+  {
+    "id": "16",
+    "title": "Dormir",
+    "descript": "It means sleep. An example of the use of this word is: 'Yo no duermo antes de ir a la escuela' = 'I don't sleep before going to school'",
+    "order": "16",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/135/174/png-transparent-bedtime-open-microsoft-office-bedtime-mammal-child-sleep.png"
+  }
+
+
+]

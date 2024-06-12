@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "title": "React.js",
+    "descript": "React is an open source Javascript library designed to create user interfaces to facilitate the development of single-page applications. It is maintained by Facebook and the free software community. There are more than a thousand free developers in the project. (This page was made with react!)",
+    "order": "3",
+    "status": "close",
+    "img": "../img/react.png"
+  },
+
+  {
+    "id": "2",
+    "title": "React.js",
+    "descript": "React is an open source Javascript library designed to create user interfaces to facilitate the development of single-page applications. It is maintained by Facebook and the free software community. There are more than a thousand free developers in the project (This page was made with react!)",
+    "order": "4",
+    "status": "close",
+    "img": "../img/react.png"
+  },
+
+  {
+    "id": "3",
+    "title": "Angular.js",
+    "descript": "Angular is a web application framework developed in TypeScript, open source, maintained by Google, used to create and maintain single-page web applications.",
+    "order": "2",
+    "status": "close",
+    "img": "../img/angular.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Angular.js",
+    "descript": "Angular is a web application framework developed in TypeScript, open source, maintained by Google, used to create and maintain single-page web applications.",
+    "order": "5",
+    "status": "close",
+    "img": "../img/angular.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Vue.js",
+    "descript": "Vue.js is an open source JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members who come from various companies such as Netlify and Netguru.",
+    "order": "1",
+    "status": "close",
+    "img": "../img/vuejs.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Vue.js",
+    "descript": "Vue.js is an open source JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members who come from various companies such as Netlify and Netguru.",
+    "order": "6",
+    "status": "close",
+    "img": "../img/vuejs.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Node.js",
+    "descript": "Node.js is a cross-platform, open source, server-layer runtime environment based on the JavaScript programming language, asynchronous, with data I/O in an event-driven architecture and based on the V8 engine. Google.",
+    "order": "8",
+    "status": "close",
+    "img": "../img/node.png"
+  },
+
+  {
+    "id": "8",
+    "title": "Node.js",
+    "descript": "Node.js is a cross-platform, open source, server-layer runtime environment based on the JavaScript programming language, asynchronous, with data I/O in an event-driven architecture and based on the V8 engine. Google.",
+    "order": "7",
+    "status": "close",
+    "img": "../img/node.png"
+  },
+
+  {
+    "id": "9",
+    "title": "Nest js",
+    "descript": "Nest js is a server-side Node. js framework that is great for building highly testable and maintainable backend applications.",
+    "order": "9",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png"
+  },
+
+  {
+    "id": "10",
+    "title": "Nest js",
+    "descript": "Nest js is a server-side Node. js framework that is great for building highly testable and maintainable backend applications.",
+    "order": "10",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png"
+  },
+
+  {
+    "id": "11",
+    "title": "Ember js",
+    "descript": "Ember. js is primarily used for creating client-side web developments. Some websites like Microsoft,Twitch, Linkedin and Netflix use it.",
+    "order": "11",
+    "status": "close",
+    "img": "https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg"
+  },
+
+  {
+    "id": "12",
+    "title": "Ember js",
+    "descript": "Ember. js is primarily used for creating client-side web developments. Some websites like Microsoft,Twitch, Linkedin and Netflix use it.",
+    "order": "12",
+    "status": "close",
+    "img": "https://emberjs.com/images/brand/ember-tomster-lockup-4c.svg"
+  }
+]

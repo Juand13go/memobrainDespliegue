@@ -1,0 +1,52 @@
+*{
+    max-width: 99.5%;
+}
+
+.memobrain2{
+  width: 100%;
+  height: 700px;
+  position: absolute;
+  background-image: url("../img/backgroundimg4.png");
+  opacity: 0,5;
+  background-position: 5px 5px;
+  margin-top: 0;
+  /* Added: Set a lower z-index value to place it behind the text */
+  z-index: 1;
+  padding: 5px;
+}
+
+.categories {
+    display: flex;
+    padding: 100px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+}
+  .category-btn {
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+  
+  .category-btn img {
+    max-width: 100%;
+    border-radius: 30px
+    
+  }
+  
+  .category-btn h1 {
+    color: rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* Added: Set the element's position to be relative */
+    position: relative;
+    /* Added: Set a higher z-index value to ensure it's on top */
+    z-index: 2;
+  }
+  
+  .image{
+    width: 600px;
+    height: 300px
+  }

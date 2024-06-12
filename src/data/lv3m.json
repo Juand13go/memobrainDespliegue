@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "title": "Statistics",
+    "descript": "Branch of mathematics that deals with gathering, organizing, and analyzing numerical data and helps solve problems such as designing experiments and making decisions.",
+    "order": "11",
+    "status": "close",
+    "img": "https://cdn-icons-png.freepik.com/512/9692/9692495.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Statistics",
+    "descript": "Branch of mathematics that deals with gathering, organizing, and analyzing numerical data and helps solve problems such as designing experiments and making decisions.",
+    "order": "4",
+    "status": "close",
+    "img": "https://cdn-icons-png.freepik.com/512/9692/9692495.png"
+  },
+
+  {
+    "id": "3",
+    "title": "Geometry",
+    "descript": "Branch of mathematics that focuses on the study of the properties of lines, planes, angles, shapes and the distances and relationships between them.",
+    "order": "2",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3941/3941113.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Geometry",
+    "descript": "Branch of mathematics that focuses on the study of the properties of lines, planes, angles, shapes and the distances and relationships between them.",
+    "order": "5",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3941/3941113.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Algebra",
+    "descript": "Branch of mathematics that studies the combination of elements of abstract structures according to certain rules.",
+    "order": "1",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3299/3299966.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Algebra",
+    "descript": "Branch of mathematics that studies the combination of elements of abstract structures according to certain rules.",
+    "order": "6",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/3299/3299966.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Sets",
+    "descript": "Family of elements considered in itself as a mathematical object",
+    "order": "8",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Intersecci%C3%B3n_entre_conjuntos.svg"
+  },
+
+  {
+    "id": "8",
+    "title": "Sets",
+    "descript": "Family of elements considered in itself as a mathematical object",
+    "order": "7",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/db/Intersecci%C3%B3n_entre_conjuntos.svg"
+  },
+
+  {
+    "id": "9",
+    "title": "Trigonometry",
+    "descript": "Is the branch of mathematics concerned with specific functions of angles and their application to calculations and the study of the triangles. ",
+    "order": "10",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/5276/5276230.png"
+  },
+
+  {
+    "id": "10",
+    "title": "Trigonometry",
+    "descript": "Is the branch of mathematics concerned with specific functions of angles and their application to calculations and the study of the triangles. ",
+    "order": "9",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/5276/5276230.png"
+  },
+
+  {
+    "id": "11",
+    "title": "Probability",
+    "descript": "Is a measure of the likelihood of an event to occur. Many events cannot be predicted with total certainty, We can predict only the chance of an event to occur. ",
+    "order": "12",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2480/2480809.png"
+  },
+
+  {
+    "id": "12",
+    "title": "Probability",
+    "descript": "Is a measure of the likelihood of an event to occur. Many events cannot be predicted with total certainty, We can predict only the chance of an event to occur. ",
+    "order": "3",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2480/2480809.png"
+  }
+]

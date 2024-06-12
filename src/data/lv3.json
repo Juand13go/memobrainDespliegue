@@ -1,0 +1,109 @@
+[
+  {
+    "id": "1",
+    "title": "Sacapuntas",
+    "descript": "This word means pencil sharpener. An example of the use of this word is: '¿Me prestas tu sacapuntas?' = 'Can I borrow your pencil sharpener?'",
+    "order": "3",
+    "status": "close",
+    "img": "https://media.istockphoto.com/id/1002634992/es/vector/sacapuntas-de-l%C3%A1piz-pl%C3%A1sticos.jpg?s=612x612&w=0&k=20&c=dtPS0z5Gu_d1JSXKo71_ph0sBNARacBDiDSxBPVAO1E="
+  },
+
+  {
+    "id": "2",
+    "title": "Sacapuntas",
+    "descript": "This word means pencil sharpener. An example of the use of this word is: '¿Me prestas tu sacapuntas?' = 'Can I borrow your pencil sharpener?'",
+    "order": "4",
+    "status": "close",
+    "img": "https://media.istockphoto.com/id/1002634992/es/vector/sacapuntas-de-l%C3%A1piz-pl%C3%A1sticos.jpg?s=612x612&w=0&k=20&c=dtPS0z5Gu_d1JSXKo71_ph0sBNARacBDiDSxBPVAO1E="
+  },
+
+  {
+    "id": "3",
+    "title": "Estrofa",
+    "descript": "It means stanza. Each of the parts composed of the same number of verses and arranged in the same way as some poetic compositions consist of.",
+    "order": "2",
+    "status": "close",
+    "img": "https://c1.klipartz.com/pngpicture/465/75/sticker-png-book-poetry-poetry-reading-recitation-stanza-document-cartoon-happy.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Estrofa",
+    "descript": "It means stanza. Each of the parts composed of the same number of verses and arranged in the same way as some poetic compositions consist of.",
+    "order": "5",
+    "status": "close",
+    "img": "https://c1.klipartz.com/pngpicture/465/75/sticker-png-book-poetry-poetry-reading-recitation-stanza-document-cartoon-happy.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Párrafo",
+    "descript": "It means paragraph. Fragment of a prose text made up of a set of consecutive lines and characterized by the full stop at the end of the last one.",
+    "order": "1",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/021/014/887/non_2x/paragraph-icon-design-free-vector.jpg"
+  },
+
+  {
+    "id": "6",
+    "title": "Párrafo",
+    "descript": "It means paragraph. Fragment of a prose text made up of a set of consecutive lines and characterized by the full stop at the end of the last one.",
+    "order": "6",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/021/014/887/non_2x/paragraph-icon-design-free-vector.jpg"
+  },
+
+  {
+    "id": "7",
+    "title": "Escrito",
+    "descript": "It means written. Express an idea or thought in writing in a coherent way and without spelling mistakes",
+    "order": "8",
+    "status": "close",
+    "img": "https://st3.depositphotos.com/3623347/16686/v/450/depositphotos_166863498-stock-illustration-colored-cartooned-hand-signing-contract.jpg"
+  },
+
+  {
+    "id": "8",
+    "title": "Escrito",
+    "descript": "It means written. Express an idea or thought in writing in a coherent way and without spelling mistakes",
+    "order": "7",
+    "status": "close",
+    "img": "https://st3.depositphotos.com/3623347/16686/v/450/depositphotos_166863498-stock-illustration-colored-cartooned-hand-signing-contract.jpg"
+  },
+
+  {
+    "id": "9",
+    "title": "Regla",
+    "descript": "It means rule. An example of the use of this word is: 'Usa la regla para no equivocarte' = 'Use the rule to avoid mistakes' ",
+    "order": "9",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/021/038/861/non_2x/ruler-icon-vector.jpg"
+  },
+
+  {
+    "id": "9",
+    "title": "Regla",
+    "descript": "It means rule. An example of the use of this word is: 'Usa la regla para no equivocarte' = 'Use the rule to avoid mistakes' ",
+    "order": "10",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/021/038/861/non_2x/ruler-icon-vector.jpg"
+  },
+
+  {
+    "id": "10",
+    "title": "Profesor",
+    "descript": "It means teacher. An example of the use of this word is: 'Mi profesor es buena persona' = 'My teacher is a good person' ",
+    "order": "12",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/005/519/978/non_2x/cartoon-drawing-of-a-teacher-vector.jpg"
+  },
+
+  {
+    "id": "10",
+    "title": "Profesor",
+    "descript": "It means teacher. An example of the use of this word is: 'Mi profesor es buena persona' = 'My teacher is a good person' ",
+    "order": "11",
+    "status": "close",
+    "img": "https://static.vecteezy.com/system/resources/previews/005/519/978/non_2x/cartoon-drawing-of-a-teacher-vector.jpg"
+  }
+]

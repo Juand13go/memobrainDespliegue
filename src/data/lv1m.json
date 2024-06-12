@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "title": "Addition",
+      "descript": "Mathematical operation of composition that consists of combining or adding two or more numbers to obtain a final or total amount.",
+      "order": "1",
+      "status": "close",
+      "img": "https://png.pngtree.com/png-vector/20190501/ourmid/pngtree-vector-plus-icon-png-image_1017103.jpg"
+    },
+    
+    {
+      "id": "2",
+      "title": "Addition",
+      "descript": "Mathematical operation of composition that consists of combining or adding two or more numbers to obtain a final or total amount.",
+      "order": "4",
+      "status": "close",
+      "img": "https://png.pngtree.com/png-vector/20190501/ourmid/pngtree-vector-plus-icon-png-image_1017103.jpg"
+
+    },
+    
+    {
+      "id": "3",
+      "title": "Subtraction",
+      "descript": "Represents the operation of deleting objects from a collection.",
+      "order": "2",
+      "status": "close",
+      "img": "https://cdn-icons-png.flaticon.com/512/3607/3607809.png"
+    },
+    
+    {
+      "id": "4",
+      "title": "Subtraction",
+      "descript": "Represents the operation of deleting objects from a collection.",
+      "order": "3",
+      "status": "close",
+      "img" : "https://cdn-icons-png.flaticon.com/512/3607/3607809.png"
+    }
+  ]

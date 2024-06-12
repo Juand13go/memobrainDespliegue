@@ -1,0 +1,147 @@
+[
+  {
+    "id": "1",
+    "title": "C",
+    "descript": "C language is widely used for developing system software, application software, and embedded systems. The C programming language has been highly influential, and many other languages have been derived from it. For example, C++ and Java are two popular modern dialects of C.",
+    "order": "3",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/465/779/png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer.png"
+  },
+
+  {
+    "id": "2",
+    "title": "C",
+    "descript": "C language is widely used for developing system software, application software, and embedded systems. The C programming language has been highly influential, and many other languages have been derived from it. For example, C++ and Java are two popular modern dialects of C.",
+    "order": "4",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/465/779/png-transparent-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-computer.png  "
+  },
+
+  {
+    "id": "3",
+    "title": "C#",
+    "descript": "Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.",
+    "order": "2",
+    "status": "close",
+    "img": "https://static.cdnlogo.com/logos/c/27/c.svg"
+  },
+
+  {
+    "id": "4",
+    "title": "C#",
+    "descript": "Like other general-purpose programming languages, C# can be used to create a number of different programs and applications: mobile apps, desktop apps, cloud-based services, websites, enterprise software and games. Lots and lots of games.",
+    "order": "5",
+    "status": "close",
+    "img": "https://static.cdnlogo.com/logos/c/27/c.svg"
+  },
+  
+  {
+    "id": "5",
+    "title": "SQL",
+    "descript": "Is a standard language used to store, retrieve, and manipulate data in relational databases. It allows end-users to communicate with databases and perform tasks like creating, updating, and deleting databases.",
+    "order": "1",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"
+  },
+
+  {
+    "id": "6",
+    "title": "SQL",
+    "descript": "Is a standard language used to store, retrieve, and manipulate data in relational databases. It allows end-users to communicate with databases and perform tasks like creating, updating, and deleting databases.",
+    "order": "6",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png"
+  },
+
+  {
+    "id": "7",
+    "title": "MongoDB",
+    "descript": "MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents.",
+    "order": "8",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"
+  },
+
+  {
+    "id": "8",
+    "title": "MongoDB",
+    "descript": "MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents.",
+    "order": "7",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png"
+  },
+
+  {
+    "id": "9",
+    "title": "Replit",
+    "descript": "Is an online IDE, editor, compiler, interpreter and REPL. Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast.",
+    "order": "10",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png"
+  },
+
+  {
+    "id": "10",
+    "title": "Replit",
+    "descript": "is an online IDE, editor, compiler, interpreter and REPL. Replit is an AI-powered software development & deployment platform for building, sharing, and shipping software fast.",
+    "order": "9",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png"
+  },
+
+  {
+    "id": "11",
+    "title": "BASH",
+    "descript": "Bash is a versatile and powerful shell and scripting language that provides a way to interact with Unix-based operating systems. It allows users to execute commands, perform complex operations, and automate tasks.",
+    "order": "12",
+    "status": "close",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsTj8VMCKFI-02-Kpil6pWfEHf5Q6qq4oTqI8oQmn7A&s"
+  },
+
+  {
+    "id": "12",
+    "title": "BASH",
+    "descript": "Bash is a versatile and powerful shell and scripting language that provides a way to interact with Unix-based operating systems. It allows users to execute commands, perform complex operations, and automate tasks.",
+    "order": "11",
+    "status": "close",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsTj8VMCKFI-02-Kpil6pWfEHf5Q6qq4oTqI8oQmn7A&s"
+  },
+
+  {
+    "id": "13",
+    "title": "Kotlin",
+    "descript": "Kotlin is a general-purpose development language used mainly for Android mobile app development. Besides Android apps, Kotlin is also useful for the following: Server-side development.",
+    "order": "13",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"
+  },
+
+  {
+    "id": "14",
+    "title": "Kotlin",
+    "descript": "Kotlin is a general-purpose development language used mainly for Android mobile app development. Besides Android apps, Kotlin is also useful for the following: Server-side development.",
+    "order": "14",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"
+  },
+
+  {
+    "id": "15",
+    "title": "Swift",
+    "descript": "Swift is a clean and concise language that is also growing fast and gaining popularity. Initially developed only for native iOS development, programmers also use Swift to write safe, concise, and easy-to-use code for operating systems like Windows and Linux.",
+    "order": "15",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/830/800/png-transparent-apple-bird-code-ios-logo-swift-logos-icon-thumbnail.png"
+  },
+
+  {
+    "id": "16",
+    "title": "Swift",
+    "descript": "Swift is a clean and concise language that is also growing fast and gaining popularity. Initially developed only for native iOS development, programmers also use Swift to write safe, concise, and easy-to-use code for operating systems like Windows and Linux.",
+    "order": "16",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/830/800/png-transparent-apple-bird-code-ios-logo-swift-logos-icon-thumbnail.png"
+  }
+
+
+]

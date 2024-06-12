@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Multiplication",
+    "descript": "Mathematical operation that consists of finding the result of adding a number as many times as indicated by another",
+    "order": "8",
+    "status": "close",
+    "img": "https://definicion.de/wp-content/uploads/2010/08/multiplicacion.png"
+  },
+  
+  {
+    "id": "2",
+    "title": "Multiplication",
+    "descript": "Mathematical operation that consists of finding the result of adding a number as many times as indicated by another",
+    "order": "4",
+    "status": "close",
+    "img": "https://definicion.de/wp-content/uploads/2010/08/multiplicacion.png"
+
+  },
+  
+  {
+    "id": "3",
+    "title": "Division",
+    "descript": "It is the inverse operation of multiplication. Division consists of finding out how many times a number is contained in another one.",
+    "order": "2",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20190420/ourmid/pngtree-divide-vector-icon-png-image_964253.jpg"
+  },
+  
+  {
+    "id": "4",
+    "title": "Division",
+    "descript": "It is the inverse operation of multiplication. Division consists of finding out how many times a number is contained in another one.",
+    "order": "10",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20190420/ourmid/pngtree-divide-vector-icon-png-image_964253.jpg"
+  }
+]

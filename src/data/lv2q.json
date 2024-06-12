@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "Gas",
+    "descript": "A gas is a substance that has no fixed size or shape. When inside a closed container, a gas will expand to fill the container. An example of gas is the air you breathe.",
+    "order": "3",
+    "status": "close",
+    "img": "https://i.pinimg.com/736x/77/b3/3f/77b33fa93a7522838067e19b5b2b77c3.jpg"
+  },
+
+  {
+    "id": "2",
+    "title": "Gas",
+    "descript": "A gas is a substance that has no fixed size or shape. When inside a closed container, a gas will expand to fill the container. An example of gas is the air you breathe.",
+    "order": "4",
+    "status": "close",
+    "img": "https://i.pinimg.com/736x/77/b3/3f/77b33fa93a7522838067e19b5b2b77c3.jpg"
+  },
+
+  {
+    "id": "3",
+    "title": "Liquid",
+    "descript": "State of aggregation of matter in the form of a highly incompressible fluid, which means that its volume is almost constant over a large range of pressure.",
+    "order": "2",
+    "status": "close",
+    "img": "https://images.vexels.com/media/users/3/145358/isolated/preview/caae118ed1bd555d7a47dcadf5af0bf8-ilustracion-de-gota-de-agua-cayendo.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Liquid",
+    "descript": "State of aggregation of matter in the form of a highly incompressible fluid, which means that its volume is almost constant over a large range of pressure.",
+    "order": "5",
+    "status": "close",
+    "img": "https://images.vexels.com/media/users/3/145358/isolated/preview/caae118ed1bd555d7a47dcadf5af0bf8-ilustracion-de-gota-de-agua-cayendo.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Solid",
+    "descript": "This is the aggregation of the material, which is characterized by its resistance to changes in shape and volume.",
+    "order": "1",
+    "status": "close",
+    "img": "https://images.vexels.com/media/users/3/232098/isolated/preview/031b0039ddc4b734f32942c470f7eb91-hielo-1.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Solid",
+    "descript": "This is the aggregation of the material, which is characterized by its resistance to changes in shape and volume.",
+    "order": "6",
+    "status": "close",
+    "img": "https://images.vexels.com/media/users/3/232098/isolated/preview/031b0039ddc4b734f32942c470f7eb91-hielo-1.png"
+  }
+]

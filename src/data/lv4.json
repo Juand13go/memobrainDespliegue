@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "title": "Género literario",
+    "descript": "It means Literary genre. They are the different groups or categories in which we can classify literary works based on their content and structure.",
+    "order": "3",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/281/511/png-transparent-book-speed-%E2%80%8B%E2%80%8Bmotion-rectangle-map-book.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Género literario",
+    "descript": "It means Literary genre. They are the different groups or categories in which we can classify literary works based on their content and structure.",
+    "order": "4",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/281/511/png-transparent-book-speed-%E2%80%8B%E2%80%8Bmotion-rectangle-map-book.png"
+  },
+
+  {
+    "id": "3",
+    "title": "Género narrativo",
+    "descript": "It means Narrative genre. They are the specific ways in which the art of counting is put into practice. In other words, they are the different ways of narrating that are traditionally contemplated, whether for literary purposes or not.",
+    "order": "2",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/568/906/png-transparent-fairy-tale-poster-short-story-book-building-child-painted-building-thumbnail.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Género narrativo",
+    "descript": "It means Narrative genre. They are the specific ways in which the art of counting is put into practice. In other words, they are the different ways of narrating that are traditionally contemplated, whether for literary purposes or not.",
+    "order": "5",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/568/906/png-transparent-fairy-tale-poster-short-story-book-building-child-painted-building-thumbnail.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Lírica",
+    "descript": "It means lyric. Literary genre in which the author transmits feelings, emotions or subjective thoughts regarding a person or object of inspiration",
+    "order": "1",
+    "status": "close",
+    "img": "https://i.pinimg.com/originals/b8/1f/7a/b81f7a735e08e5e32a5f5e980da71d4a.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Lírica",
+    "descript": "It means lyric. Literary genre in which the author transmits feelings, emotions or subjective thoughts regarding a person or object of inspiration",
+    "order": "6",
+    "status": "close",
+    "img": "https://i.pinimg.com/originals/b8/1f/7a/b81f7a735e08e5e32a5f5e980da71d4a.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Drama",
+    "descript": "Also known as dramatic literature, it is a literary genre that, along with poetry and epic, is one of the first great genres into which literature was divided.",
+    "order": "8",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20221001/ourmid/pngtree-drama-mask-png-image_6250397.png"
+  },
+
+  {
+    "id": "8",
+    "title": "Drama",
+    "descript": "Also known as dramatic literature, it is a literary genre that, along with poetry and epic, is one of the first great genres into which literature was divided.",
+    "order": "7",
+    "status": "close",
+    "img": "https://png.pngtree.com/png-vector/20221001/ourmid/pngtree-drama-mask-png-image_6250397.png"
+  },
+
+  {
+    "id": "9",
+    "title": "Teatro",
+    "descript": "It means theater. It is the branch of performing arts related to acting. It represents stories acted out in front of spectators or in front of a camera using a combination of speech, gestures, scenery, music, sound and spectacle.",
+    "order": "10",
+    "status": "close",
+    "img": "https://e7.pngegg.com/pngimages/857/550/png-clipart-theatre-theater-drapes-and-stage-curtains-cinema-capabilities-s-interior-design-stage-thumbnail.png"
+  },
+
+  
+  {
+    "id": "10",
+    "title": "Teatro",
+    "descript": "It means theater. It is the branch of performing arts related to acting. It represents stories acted out in front of spectators or in front of a camera using a combination of speech, gestures, scenery, music, sound and spectacle.",
+    "order": "9",
+    "status": "close",
+    "img": "https://e7.pngegg.com/pngimages/857/550/png-clipart-theatre-theater-drapes-and-stage-curtains-cinema-capabilities-s-interior-design-stage-thumbnail.png"
+  },
+
+  
+  {
+    "id": "11",
+    "title": "Tragedia",
+    "descript": "It means tragedy. Branch of drama that treats in a serious and dignified style the sorrowful or terrible events encountered or caused by a heroic individual",
+    "order": "12",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2446/2446765.png"
+  },
+
+  
+  {
+    "id": "11",
+    "title": "Tragedia",
+    "descript": "It means tragedy. Branch of drama that treats in a serious and dignified style the sorrowful or terrible events encountered or caused by a heroic individual",
+    "order": "11",
+    "status": "close",
+    "img": "https://cdn-icons-png.flaticon.com/512/2446/2446765.png"
+  }
+
+]

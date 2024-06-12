@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "title": "Backend",
+      "descript": "The backend handles tasks like storing and retrieving data from a database, processing forms, authenticating users, and managing site security. It is responsible for all the “magic” that happens behind the visible interface.",
+      "order": "1",
+      "status": "close",
+      "img": "../img/backend.png"
+    },
+    
+    {
+      "id": "2",
+      "title": "Backend",
+      "descript": "The backend handles tasks like storing and retrieving data from a database, processing forms, authenticating users, and managing site security. It is responsible for all the “magic” that happens behind the visible interface.",
+      "order": "4",
+      "status": "close",
+      "img": "../img/backend.png"
+    },
+    
+    {
+      "id": "3",
+      "title": "Frontend",
+      "descript": "Frontend is the part of a program, website, or device that a user can access directly. In the context of web design and web development, it refers to all the technologies that run in the browser and are responsible for interactivity with users.",
+      "order": "2",
+      "status": "close",
+      "img": "https://w7.pngwing.com/pngs/1002/700/png-transparent-front-end-web-development-web-design-user-interface-design-web-front-end-design-web-design-user-interface-design-computer-thumbnail.png"
+    },
+    
+    {
+      "id": "4",
+      "title": "Frontend",
+      "descript": "Frontend is the part of a program, website, or device that a user can access directly. In the context of web design and web development, it refers to all the technologies that run in the browser and are responsible for interactivity with users.",
+      "order": "3",
+      "status": "close",
+      "img": "https://w7.pngwing.com/pngs/1002/700/png-transparent-front-end-web-development-web-design-user-interface-design-web-front-end-design-web-design-user-interface-design-computer-thumbnail.png"
+    }
+  ]
+  

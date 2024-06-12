@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "title": "force",
+    "descript": "It is a phenomenon that modifies the movement of a body or deforms it",
+    "order": "3",
+    "status": "close"
+  },
+
+  {
+    "id": "2",
+    "title": "force",
+    "descript": "It is a phenomenon that modifies the movement of a body or deforms it",
+    "order": "4",
+    "status": "close"
+  },
+
+  {
+    "id": "3",
+    "title": "vibe",
+    "descript": "propagation of a fluctuation or disturbance in some property of space.",
+    "order": "2",
+    "status": "close"
+  },
+
+  {
+    "id": "4",
+    "title": "vibe",
+    "descript": "propagation of a fluctuation or disturbance in some property of space.",
+    "order": "5",
+    "status": "close"
+  },
+  
+  {
+    "id": "5",
+    "title": "light",
+    "descript": "part of the electromagnetic radiation that can be perceived by the human eye.​",
+    "order": "1",
+    "status": "close"
+  },
+
+  {
+    "id": "6",
+    "title": "light",
+    "descript": "part of the electromagnetic radiation that can be perceived by the human eye.​",
+    "order": "6",
+    "status": "close"
+  },
+
+  {
+    "id": "7",
+    "title": "ound",
+    "descript": "Sound is any phenomenon that involves the propagation of mechanical waves through a fluid or solid medium with a frequency within the audible range.",
+    "order": "8",
+    "status": "close"
+  },
+
+  {
+    "id": "8",
+    "title": "ound",
+    "descript": "Sound is any phenomenon that involves the propagation of mechanical waves through a fluid or solid medium with a frequency within the audible range.",
+    "order": "7",
+    "status": "close"
+  }
+]

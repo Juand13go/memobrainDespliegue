@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "title": "Exponentiation",
+    "descript": "Exponentiation in math is defined as the operation used to represent repeated multiplication. For example, if 10 is multiplied three times, then it can be written as '10 raised to 3'.",
+    "order": "3",
+    "status": "close",
+    "img": "https://cdn.icon-icons.com/icons2/2248/PNG/512/exponent_icon_138629.png"
+  },
+
+  {
+    "id": "2",
+    "title": "Exponentiation",
+    "descript": "Exponentiation in math is defined as the operation used to represent repeated multiplication. For example, if 10 is multiplied three times, then it can be written as '10 raised to 3'.",
+    "order": "4",
+    "status": "close",
+    "img": "https://cdn.icon-icons.com/icons2/2248/PNG/512/exponent_icon_138629.png"
+  },
+
+  {
+    "id": "3",
+    "title": "Roots",
+    "descript": "The root of a number in math is a number that when multiplied by itself produces the original number. For example, the square root of 49 is 7 because 7x7=49.",
+    "order": "2",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/184/778/png-transparent-zero-of-a-function-n-lt-i-gt-th-root-square-root-of-2-equation-mathematics-angle-text-logo-thumbnail.png"
+  },
+
+  {
+    "id": "4",
+    "title": "Roots",
+    "descript": "The root of a number in math is a number that when multiplied by itself produces the original number. For example, the square root of 49 is 7 because 7x7=49.",
+    "order": "5",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/184/778/png-transparent-zero-of-a-function-n-lt-i-gt-th-root-square-root-of-2-equation-mathematics-angle-text-logo-thumbnail.png"
+  },
+  
+  {
+    "id": "5",
+    "title": "Decimal",
+    "descript": "It is one that is made up of whole units and a decimal fraction.",
+    "order": "1",
+    "status": "close",
+    "img": "https://www.pinclipart.com/picdir/big/247-2475683_decimal-comments-clipart.png"
+  },
+
+  {
+    "id": "6",
+    "title": "Decimal",
+    "descript": "It is one that is made up of whole units and a decimal fraction.",
+    "order": "6",
+    "status": "close",
+    "img": "https://www.pinclipart.com/picdir/big/247-2475683_decimal-comments-clipart.png"
+  },
+
+  {
+    "id": "7",
+    "title": "Prime number",
+    "descript": "Prime numbers are natural numbers that are divisible by only 1 and the number itself",
+    "order": "8",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/556/256/png-transparent-prime-number-mathematics-composite-number-prime-number-s-text-logo-number.png"
+  },
+
+  {
+    "id": "8",
+    "title": "Prime number",
+    "descript": "Prime numbers are natural numbers that are divisible by only 1 and the number itself",
+    "order": "7",
+    "status": "close",
+    "img": "https://w7.pngwing.com/pngs/556/256/png-transparent-prime-number-mathematics-composite-number-prime-number-s-text-logo-number.png"
+  },
+
+  {
+    "id": "9",
+    "title": "PI:π",
+    "descript": "Relation between the length of a circle and its diameter in Euclidean geometry​",
+    "order": "10",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png"
+  },
+
+  
+  {
+    "id": "10",
+    "title": "PI:π",
+    "descript": "Relation between the length of a circle and its diameter in Euclidean geometry.​",
+    "order": "9",
+    "status": "close",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png"
+  },
+
+  
+  {
+    "id": "11",
+    "title": "Euler number",
+    "descript": "Refers to a mathematical expression for the base of the natural logarithm. This is represented by a non-repeating number that never ends.",
+    "order": "11",
+    "status": "close",
+    "img": "https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/himadri-euler-s-number-01-1602838144.png"
+  },
+
+  
+  {
+    "id": "12",
+    "title": "Euler number",
+    "descript": "Refers to a mathematical expression for the base of the natural logarithm. This is represented by a non-repeating number that never ends.",
+    "order": "12",
+    "status": "close",
+    "img": "https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/himadri-euler-s-number-01-1602838144.png"
+  }
+
+]

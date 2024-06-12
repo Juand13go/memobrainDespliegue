@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Libro",
+    "descript": "This word means book. Some examples of the use of it are: '¡Dame ese libro!' = 'Give me that book!', 'Ese libro es grande' = 'That book is big'",
+    "order": "3",
+    "status": "close",
+    "img": "https://img.freepik.com/vector-gratis/libro-rojo-sobre-fondo-blanco_1308-26708.jpg"
+  },
+
+  {
+    "id": "2",
+    "title": "Libro",
+    "descript": "This word means book. Some examples of the use of it are: '¡Dame ese libro!' = 'Give me that book!', 'Ese libro es grande' = 'That book is big'",
+    "order": "4",
+    "status": "close",
+    "img": "https://img.freepik.com/vector-gratis/libro-rojo-sobre-fondo-blanco_1308-26708.jpg"
+  },
+
+  {
+    "id": "3",
+    "title": "Lápiz",
+    "descript": "This word means pencil. Some examples of the use of it are: 'Mi lápiz está roto' = 'My pencil is broken', '¡No te robes mi lápiz!' = 'Don't steal my pencil!'",
+    "order": "2",
+    "status": "close",
+    "img": "https://st4.depositphotos.com/11576988/27933/v/450/depositphotos_279333046-stock-illustration-pencil-write-icon-isolated-white.jpg"
+  },
+
+  {
+    "id": "4",
+    "title": "Lápiz",
+    "descript": "This word means pencil. Some examples of the use of it are: 'Mi lápiz está roto' = 'My pencil is broken', '¡No te robes mi lápiz!' = 'Don't steal my pencil!'",
+    "order": "5",
+    "status": "close",
+    "img": "https://st4.depositphotos.com/11576988/27933/v/450/depositphotos_279333046-stock-illustration-pencil-write-icon-isolated-white.jpg"
+  }
+]
